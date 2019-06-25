@@ -1,0 +1,18 @@
+original:
+
+<style>
+@font-face {
+  font-family: Brush Script MT; src: url(fonts/brush.ttf);
+}
+
+body{
+background-image: url(images/background_2.jpg);
+background-size: 100%;
+}
+
+p{
+text-align: center;
+color:black;
+font-family: Brush Script MT
+}
+</style>
